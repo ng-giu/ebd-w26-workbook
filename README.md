@@ -7,8 +7,7 @@ the course and gets you ready for Express, MongoDB and React.
 
 **New here? Read [START-HERE.md](START-HERE.md) first.** It is ten lines.
 
-The slides covering all of this: [instructions.pdf](instructions.pdf), or
-online at <https://assignment2.ebd.nourgaser.com>.
+The slides covering all of this: [instructions.pdf](instructions.pdf).
 
 ## What this is
 
