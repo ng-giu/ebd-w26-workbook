@@ -1,5 +1,8 @@
 # Start here
 
+The slides that walk through all of this: [instructions.pdf](instructions.pdf),
+or online at <https://assignment2.ebd.nourgaser.com>.
+
 1. Make sure you used **Use this template** on GitHub and cloned **your own**
    copy. Open the folder in VS Code.
 2. Open a terminal: **Terminal → New Terminal**.

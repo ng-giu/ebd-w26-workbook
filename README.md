@@ -7,6 +7,9 @@ the course and gets you ready for Express, MongoDB and React.
 
 **New here? Read [START-HERE.md](START-HERE.md) first.** It is ten lines.
 
+The slides covering all of this: [instructions.pdf](instructions.pdf), or
+online at <https://assignment2.ebd.nourgaser.com>.
+
 ## What this is
 
 Fourteen small modules. Each one teaches a single thing and takes about 30–45
